@@ -1,7 +1,7 @@
 # API de Integração com Stripe
 
 Esta API foi desenvolvida para integrar a plataforma de pagamentos Stripe ao seu aplicativo. Ela permite processar pagamentos bem-sucedidos, atualizar o tipo de plano e status de membro de um usuário no banco de dados, e enviar e-mails de confirmação de compra aos clientes.
-
+Além disso, está em planejamento a implementação de uma lógica para criação de usuários no banco de dados a partir do cadastro realizado pelo Stripe.
 ## Funcionalidades
 
 - Processamento de pagamentos bem-sucedidos.
